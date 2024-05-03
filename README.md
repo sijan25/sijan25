@@ -1,7 +1,7 @@
 ### ¡Hola! 👋 
 Soy Frontend Developer y me especializo en las siguientes tecnologías:
 
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 
 - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
 - <img src="https://img.icons8.com/officel/40/000000/react.png"/> React
