@@ -1,9 +1,7 @@
 ### ¡Hola! 👋 
 Soy Frontend Developer y me especializo en las siguientes tecnologías:
 
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-- <img src="https://img.icons8.com/officel/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/officel/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
 
 También puedes encontrarme en [LinkedIn](www.linkedin.com/in/castro-dayana) para conectar y colaborar.
 
