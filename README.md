@@ -4,7 +4,8 @@ Soy Frontend Developer me enfoco en dominar las siguientes tecnologías:
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/officel/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
 
 También puedes encontrarme en LinkedIn para conectar y colaborar:
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>https://www.linkedin.com/in/castro-dayana
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/castro-dayana)
+
 
 <!--
 **sijan25/sijan25** es un ✨ _repositorio especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
